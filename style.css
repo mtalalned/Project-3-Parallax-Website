@@ -6,6 +6,8 @@
 html {
     font-size: 62.5%;
 }
+
+/* Parallax Website Started */
 .first-div {
     background-image: url(./Assets/First-div-background.jfif);
     background-size: 100% 100%;
@@ -16,3 +18,16 @@ html {
    font-size: 6rem;
    background-color: #313534;
 }
+/* Parallax Website Ended */
+
+/* Section One Started */
+.second-container {
+    padding: 0px 90px;
+    background-color: #f4f4f4;
+    padding-bottom: 75px;
+}
+.second-sub-container > p {
+    font-size: 5rem;
+    color: #666666;
+}
+/* Section One Ended */

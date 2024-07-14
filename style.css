@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    font-size: 62.5%;
+}
+.first-div {
+    background-image: url(./Assets/First-div-background.jfif);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 125vh;
+}
+.first-div p:nth-last-of-type(1) {
+   font-size: 6rem;
+   background-color: #313534;
+}
